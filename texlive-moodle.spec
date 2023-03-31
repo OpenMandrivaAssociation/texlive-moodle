@@ -1,6 +1,6 @@
 Name:		texlive-moodle
 Version:	57683
-Release:	1
+Release:	2
 Summary:	Generating Moodle quizzes via LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/moodle
