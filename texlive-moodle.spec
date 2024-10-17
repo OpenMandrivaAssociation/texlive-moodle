@@ -3,7 +3,7 @@ Version:	65672
 Release:	1
 Summary:	Generating Moodle quizzes via LaTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/moodle
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/moodle
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/moodle.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/moodle.doc.r%{version}.tar.xz
